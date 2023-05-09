@@ -1,1 +1,1 @@
-This repo contains my notes and homework for the Columbia Business School class [Data Analytics in Python](https://courses.business.columbia.edu/B8139?_ga=2.55042283.196219863.1675692528-135088986.1666814344)
+This repo contains my notes, homework, and project for the Columbia Business School class [Data Analytics in Python](https://courses.business.columbia.edu/B8139?_ga=2.55042283.196219863.1675692528-135088986.1666814344)
